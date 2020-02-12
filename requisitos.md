@@ -343,6 +343,618 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Almacenar datos de cada entidad/modelo usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará al menos de cada usuario su id, login, nombre, apellidos y contraseña.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Almacenar datos de cada entidad/modelo juegos**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará al menos de cada juego su id, nombre, id de la consola, si habia sido completado antes o no, su id de genero y el año de lanzamiento              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Almacenar datos de cada entidad/modelo generos**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará al menos de cada genero su id y su nombre              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Almacenar datos de cada entidad/modelo consolas**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará al menos de cada consola su id y su nombre              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Registrar usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe permitir registrar usuarios             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Iniciar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán iniciar sesión             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Cerrar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán cerrar su sesión             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Correo de confirmación de creación de cuenta**         |
+| --------------: | :------------------- |
+| **Descripción** | Se enviara un correo de confirmación al crear una cuenta de usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Modificar datos de usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe permitir modificar datos de usuarios ya creados             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Sitio de bienvenida**         |
+| --------------: | :------------------- |
+| **Descripción** | Se creara un sitio de bienvenida             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Crear lista**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe ser capaz de crear una lista de juegos por usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Ver lista**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá indexar la lista de juegos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Filtrar lista**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá filtrar la lista por todos sus datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Ordenar lista**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá ordenar la lista por todos sus datos ascendente y descendentemente             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Añadir juego completado a lista**         |
+| --------------: | :------------------- |
+| **Descripción** | Se deberán añadir juegos completados a la lista             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Modificar entrada de juego completado**         |
+| --------------: | :------------------- |
+| **Descripción** | Se permitirá modificar la entrada de un juego completado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R55**     | **Eliminar entrada de juego completado**         |
+| --------------: | :------------------- |
+| **Descripción** | Se permitirá borrar la entrada de un juego completado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R56**     | **Consultar la entrada de un juego completado**         |
+| --------------: | :------------------- |
+| **Descripción** | Se permitirá consultar una entrada concreta de juego completado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R57**     | **Consultar la entrada de un juego en concreto**         |
+| --------------: | :------------------- |
+| **Descripción** | Se permitirá consultar la entrada de un juego en concreto, no confundir con juego completado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R58**     | **Estadísticas**         |
+| --------------: | :------------------- |
+| **Descripción** | Se crearan estadísticas basadas en los juegos completados             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R59**     | **Selección de estadísticas**         |
+| --------------: | :------------------- |
+| **Descripción** | Se listaran las estadísticas y se podrá seleccionar cual se puede ver y cual no             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R60**     | **Juegos por plataforma**         |
+| --------------: | :------------------- |
+| **Descripción** | Se listaran los juegos correspondientes a cada plataforma             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R61**     | **Ordenación de juegos por plataforma**         |
+| --------------: | :------------------- |
+| **Descripción** | Se ordenaran los juegos de la lista de plataformas             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R62**     | **Filtrado de juegos por plataforma**         |
+| --------------: | :------------------- |
+| **Descripción** | Se filtrara la lista de los juegos por plataforma con todos sus datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R63**     | **Juegos por género**         |
+| --------------: | :------------------- |
+| **Descripción** | Se listaran los juegos correspondientes a cada género             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R64**     | **Ordenación de juegos por genero**         |
+| --------------: | :------------------- |
+| **Descripción** | Se ordenaran los juegos de la lista de géneros             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R65**     | **Filtrado de juegos por genero**         |
+| --------------: | :------------------- |
+| **Descripción** | Se filtrara la lista de juegos por géneros, con todos sus gatos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R66**     | **IGDB**         |
+| --------------: | :------------------- |
+| **Descripción** | Se usara la API de IGDB para obtener datos adicionales de los juegos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v1             |
+
+
+| **R67**     | **Sistema de reacciones en juegos completados**         |
+| --------------: | :------------------- |
+| **Descripción** | Se implementara un sistema de reacciones por cada juego completado (Me gusta, me divierte, me enfada…)             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v1             |
+
+
+| **R68**     | **Almacenar datos de cada entidad/modelo seguidor**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará al menos de cada seguidor id, seguidor_id y seguido_id             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R69**     | **Almacenar datos de cada entidad/modelo comentarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará de cada comentario al menos su id, usuario_id, procedencia_id, cuerpo.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R70**     | **Seguir**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar el seguimiento entre usuarios             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R71**     | **Dejar de seguir a un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar el dejar de seguir a un usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R72**     | **Lista de usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se listaran todos los usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R73**     | **Lista de usuarios seguidos**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar una lista de usuarios seguidos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R74**     | **Lista de usuarios que te siguen**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar una lista de usuarios que te siguen             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R75**     | **Ordenación de lista de usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se ordenara la lista de usuarios             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R76**     | **Filtrado de lista de usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se filtrara la lista de usuarios con todos sus datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R77**     | **Perfil de usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Se creara un perfil de usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R78**     | **Imagen de avatar**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán definir su foto de avatar             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R79**     | **Modificar imagen de avatar**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán definir una foto de avatar si esta ya existe             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R80**     | **Eliminar imagen de avatar**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán eliminar su foto de avatar, poniendo una por defecto             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R81**     | **Bloqueo entre usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios se podrán bloquear para no permitir que un usuario pueda ver su actividad             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R82**     | **Perfil privado**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán poner su perfil en privado para que solo los usuarios que el desee puedan ver su perfil             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R83**     | ** Perfil publico**         |
+| --------------: | :------------------- |
+| **Descripción** | Si el perfil del usuario es privado, el usuario podrá poner su perfil publico             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R84**     | **Búsqueda de usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá buscar usuarios concretos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R85**     | **Recomendar juego a usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá recomendar un juego a otro usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R86**     | **Mensajería entre usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se establecerá un sistema de mensajería no instantánea entre usuarios             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R87**     | **Mensajería instantánea entre usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se usara un sistema de mensajería instantánea mediante usuarios             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R88**     | **Comentarios en muro de usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Se creara un sistema de comentarios en el muro del usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R89**     | **Eliminar comentarios de muro**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá eliminar los comentarios de un muro             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R90**     | **Modificar comentario de muro**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá modificar los comentarios del muro             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R91**     | **Comentarios en entrada de juego completado**         |
+| --------------: | :------------------- |
+| **Descripción** | Se creara un sistema de comentarios en la entrada de un juego completado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R92**     | **Eliminar comentarios de una entrada de juego**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá eliminar los comentarios de un juego completado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R93**     | **Modificar comentario de entrada de juego**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá modificar los comentarios de las entradas de juego             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R94**     | **Enviar incidencias**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán enviar incidencias a los administradores             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R95**     | **Recibir incidencias**         |
+| --------------: | :------------------- |
+| **Descripción** | Los administradores recibirán las incidencias             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R96**     | **Amazon S3**         |
+| --------------: | :------------------- |
+| **Descripción** | Uso de Amazon S3 para el almacenamiento en la nube             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R97**     | **Sistema de reacciones en comentarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se implementara un sistema de reacciones por cada comentario (Me gusta, me divierte, me enfada…)             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R98**     | **Lista de juegos pendientes**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá crear una lista de juegos pendientes             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R99**     | **Filtrado de juegos pendientes**         |
+| --------------: | :------------------- |
+| **Descripción** | Se filtraran los juegos pendientes             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R100**     | **Ordenación de juegos pendientes**         |
+| --------------: | :------------------- |
+| **Descripción** | Se ordenaran los juegos pendientes por todos sus datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R101**     | **Añadir juego a lista pendiente**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá añadir juegos pendientes             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R102**     | **Pasar juego de pendiente a completado**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá añadir un juego desde la lista de pendientes a la lista de terminados             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R103**     | **Eliminar juego pendiente**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá eliminar juegos pendientes             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R104**     | **Modificar juego pendiente**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá modificar juegos pendientes             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R105**     | **Implementar autenticación en dos pasos de Google**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá usar la aplicación de Google Authenticator para poder iniciar sesión             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R106**     | **Portar el sistema de comentarios a Disqus**         |
+| --------------: | :------------------- |
+| **Descripción** | Se portara el sistema de comentarios a Disqus             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
 
 ## Cuadro resumen
 
@@ -386,3 +998,71 @@
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R39**) Almacenar datos de cada entidad/modelo usuarios | Importante | Información | Fácil | v1 | 
+| (**R40**) Almacenar datos de cada entidad/modelo juegos | Importante | Información | Fácil | v1 | 
+| (**R41**) Almacenar datos de cada entidad/modelo generos | Importante | Información | Fácil | v1 | 
+| (**R42**) Almacenar datos de cada entidad/modelo consolas | Importante | Información | Fácil | v1 | 
+| (**R43**) Registrar usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R44**) Iniciar sesión | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Cerrar sesión | Importante | Funcional | Fácil | v1 | 
+| (**R46**) Correo de confirmación de creación de cuenta | Importante | Funcional | Fácil | v1 | 
+| (**R47**) Modificar datos de usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R48**) Sitio de bienvenida | Importante | Funcional | Fácil | v1 | 
+| (**R49**) Crear lista | Importante | Funcional | Fácil | v1 | 
+| (**R50**) Ver lista | Importante | Funcional | Fácil | v1 | 
+| (**R51**) Filtrar lista | Importante | Funcional | Fácil | v1 | 
+| (**R52**) Ordenar lista | Importante | Funcional | Fácil | v1 | 
+| (**R53**) Añadir juego completado a lista | Importante | Funcional | Fácil | v1 | 
+| (**R54**) Modificar entrada de juego completado | Importante | Funcional | Fácil | v1 | 
+| (**R55**) Eliminar entrada de juego completado | Importante | Funcional | Fácil | v1 | 
+| (**R56**) Consultar la entrada de un juego completado | Importante | Funcional | Fácil | v1 | 
+| (**R57**) Consultar la entrada de un juego en concreto | Importante | Funcional | Fácil | v1 | 
+| (**R58**) Estadísticas | Importante | Funcional | Fácil | v1 | 
+| (**R59**) Selección de estadísticas | Opcional | Funcional | Fácil | v1 | 
+| (**R60**) Juegos por plataforma | Importante | Funcional | Fácil | v1 | 
+| (**R61**) Ordenación de juegos por plataforma | Importante | Funcional | Fácil | v1 | 
+| (**R62**) Filtrado de juegos por plataforma | Importante | Funcional | Fácil | v1 | 
+| (**R63**) Juegos por género | Importante | Funcional | Fácil | v1 | 
+| (**R64**) Ordenación de juegos por genero | Importante | Funcional | Fácil | v1 | 
+| (**R65**) Filtrado de juegos por genero | Importante | Funcional | Fácil | v1 | 
+| (**R66**) IGDB | Importante | Técnico | Difícil | v1 | 
+| (**R67**) Sistema de reacciones en juegos completados | Opcional | Funcional | Difícil | v1 | 
+| (**R68**) Almacenar datos de cada entidad/modelo seguidor | Importante | Información | Media | v2 | 
+| (**R69**) Almacenar datos de cada entidad/modelo comentarios | Importante | Información | Media | v2 | 
+| (**R70**) Seguir | Importante | Funcional | Media | v2 | 
+| (**R71**) Dejar de seguir a un usuario | Importante | Funcional | Media | v2 | 
+| (**R72**) Lista de usuarios | Importante | Funcional | Fácil | v2 | 
+| (**R73**) Lista de usuarios seguidos | Importante | Funcional | Media | v2 | 
+| (**R74**) Lista de usuarios que te siguen | Importante | Funcional | Media | v2 | 
+| (**R75**) Ordenación de lista de usuarios | Importante | Funcional | Fácil | v2 | 
+| (**R76**) Filtrado de lista de usuarios | Importante | Funcional | Fácil | v2 | 
+| (**R77**) Perfil de usuario | Importante | Funcional | Fácil | v2 | 
+| (**R78**) Imagen de avatar | Opcional | Funcional | Fácil | v2 | 
+| (**R79**) Modificar imagen de avatar | Opcional | Funcional | Media | v2 | 
+| (**R80**) Eliminar imagen de avatar | Opcional | Funcional | Fácil | v2 | 
+| (**R81**) Bloqueo entre usuarios | Opcional | Funcional | Media | v2 | 
+| (**R82**) Perfil privado | Opcional | Funcional | Media | v2 | 
+| (**R83**)  Perfil publico | Opcional | Funcional | Media | v2 | 
+| (**R84**) Búsqueda de usuarios | Importante | Funcional | Fácil | v2 | 
+| (**R85**) Recomendar juego a usuario | Importante | Funcional | Fácil | v2 | 
+| (**R86**) Mensajería entre usuarios | Importante | Funcional | Fácil | v2 | 
+| (**R87**) Mensajería instantánea entre usuarios | Importante | Funcional | Media | v2 | 
+| (**R88**) Comentarios en muro de usuario | Importante | Funcional | Media | v2 | 
+| (**R89**) Eliminar comentarios de muro | Importante | Funcional | Media | v2 | 
+| (**R90**) Modificar comentario de muro | Opcional | Funcional | Media | v2 | 
+| (**R91**) Comentarios en entrada de juego completado | Importante | Funcional | Media | v2 | 
+| (**R92**) Eliminar comentarios de una entrada de juego | Importante | Funcional | Media | v2 | 
+| (**R93**) Modificar comentario de entrada de juego | Opcional | Funcional | Media | v2 | 
+| (**R94**) Enviar incidencias | Importante | Funcional | Fácil | v2 | 
+| (**R95**) Recibir incidencias | Importante | Funcional | Fácil | v2 | 
+| (**R96**) Amazon S3 | Opcional | Funcional | Media | v2 | 
+| (**R97**) Sistema de reacciones en comentarios | Opcional | Funcional | Difícil | v2 | 
+| (**R98**) Lista de juegos pendientes | Importante | Funcional | Fácil | v3 | 
+| (**R99**) Filtrado de juegos pendientes | Importante | Funcional | Fácil | v3 | 
+| (**R100**) Ordenación de juegos pendientes | Importante | Funcional | Fácil | v3 | 
+| (**R101**) Añadir juego a lista pendiente | Importante | Funcional | Fácil | v3 | 
+| (**R102**) Pasar juego de pendiente a completado | Importante | Funcional | Fácil | v3 | 
+| (**R103**) Eliminar juego pendiente | Importante | Funcional | Fácil | v3 | 
+| (**R104**) Modificar juego pendiente | Importante | Funcional | Fácil | v3 | 
+| (**R105**) Implementar autenticación en dos pasos de Google | Opcional | Técnico | Difícil | v3 | 
+| (**R106**) Portar el sistema de comentarios a Disqus | Opcional | Técnico | Difícil | v3 | 
